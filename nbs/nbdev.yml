@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "workout_nb"
+  site-url: "https://dmose.github.io/workout_nb"
+  description: "workout tracker notebook"
+  repo-branch: main
+  repo-url: "https://github.com/dmose/workout_nb"
