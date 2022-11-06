@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://dmose.github.io',
                 'git_url': 'https://github.com/dmose/workout_nb',
                 'lib_path': 'workout_nb'},
-  'syms': {'workout_nb.core': {'workout_nb.core.foo': ('core.html#foo', 'workout_nb/core.py')}}}
+  'syms': { 'workout_nb.workout_nb': { 'workout_nb.workout_nb.Workout_NB': ('workout_nb.html#workout_nb', 'workout_nb/workout_nb.py'),
+                                       'workout_nb.workout_nb.Workout_NB.__init__': ( 'workout_nb.html#workout_nb.__init__',
+                                                                                      'workout_nb/workout_nb.py')}}}
